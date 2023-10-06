@@ -16,7 +16,7 @@
 - :seedling: Являюсь организатором курсов по ИБ в университете!
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Albertinelli) 
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Albertinelli-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Albertinelli) 
 ---
 
 ### 🤝 Социальные сети:
@@ -27,6 +27,7 @@
     </a>
   </div>
 
+---
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,10 +35,12 @@
 
 
 
-
+---
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/AlbertTonoyan2004/badges/large)
+
+---
 
 ### ⚙️ GitHub статистика:
 
