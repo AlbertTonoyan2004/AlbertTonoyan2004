@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Albert ==============================================================================================================================  I am a student at the Bauman Moscow State Technical University, studying at the Information Security Department  * 🌍  I'm based in Moscow
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Albert ==============================================================================================================================  I am a student at the Bauman Moscow State Technical University, studying at the Information Security Department  * 🌍  I'm based in Moscow
 
 ### Skills  
 
